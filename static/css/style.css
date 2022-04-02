@@ -27,6 +27,7 @@ html{
 #logo img{
     height: 65px;
     margin: 23px 27px;
+    border-radius: 436px;
 
 }
 /* Navigation Bar: List Styling */
@@ -151,8 +152,9 @@ html{
     padding: 43px;
 }
 
-#clients img{
+#clients img {
     height: 80px;
+    width: 93px;
 }
 /* Contact Section */
 

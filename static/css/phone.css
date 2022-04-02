@@ -9,6 +9,7 @@
     height: 47px;
     margin: 3px 27px;
     align-items:center;
+    
 }
 
  #navbar::before{
@@ -52,8 +53,9 @@
 }
 
 /* Client Services */
-#clients{
+#clients {
     flex-wrap: wrap;
+    padding: 6px 38px;
 }
 
 #client-section::before{
@@ -79,6 +81,7 @@
 }
 #contact-box {
     margin: 104px 0px;
+    width: 100%;
     
 }
 /* #contact-box textarea{
