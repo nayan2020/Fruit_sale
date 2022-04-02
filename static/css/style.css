@@ -203,8 +203,10 @@ html{
 footer{
     color:white;
     background-color: black;
-    padding: 3px
+    padding: 3px;
+    position: relative;
 }
+ 
 
 /* utility classes */
 
