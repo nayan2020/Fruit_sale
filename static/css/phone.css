@@ -1,32 +1,6 @@
 
 /* Navigation Bar */
-#navbar{
-    display: flex;
-    flex-direction: column;
-    height: 114px;
-}
-#logo img {
-    height: 47px;
-    margin: 3px 27px;
-    align-items:center;
-    
-}
 
- #navbar::before{
-    margin: -25px 8px;
-}
-
-#navbar ul li{
-    font-size: .8rem;
-}
-
-#navbar ul li a {
-    /* padding: 3px 10px; */
-    border-radius: 20px;
-    margin: 2px 13px;
-    padding: 2px 9px;
-     
-}
 
 /* Home section */
 
@@ -59,7 +33,7 @@
 }
 
 #client-section::before{
-    height: 630px;
+    height: 629px;
 }
 .client-item {
     padding: 24px;
@@ -67,26 +41,20 @@
 
 /* Contact Section */
 #contact-element {
-    margin: 428px -57px;
+    margin: 94px 0px;
     
 }
 
-#contact-element::before {
-    height: 1147px;
 
-}
 
 #contact-element h1{
     margin: 104px 0px;
 }
 #contact-box {
-    margin: 104px 0px;
+    
     width: 100%;
     
 }
-/* #contact-box textarea{
-    height: 43px
-} */
 
 
 /* Utility Class */
