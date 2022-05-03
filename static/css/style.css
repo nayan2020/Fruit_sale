@@ -9,10 +9,8 @@ html {
 }
 
 /* Navigation Bar */
-.navbar {
-    position: sticky;
-}
-.navbar li a {
+
+.navbar-text {
     font-size: 1.2rem;
 }
 
